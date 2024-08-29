@@ -51,3 +51,10 @@
 # Responsabilità e Chiarimenti
     - Il progetto NON VUOLE IN ALCUN CASO INCENTIVARE L'USO DEI DISPOSITIVI MOBILI ALLA GUIDA bensì renderli più autonomi e sicuri possibile.
     - Qualsiasi uso improprio o dannoso è responsabilità dell'utente.
+
+# Supporta il Creatore
+    - PayPal: https://www.paypal.com/paypalme/graficarulez
+    - Ko-Fi: https://ko-fi.com/cotrox
+
+# Recensioni sul Prodotto
+    - GraficaRuleZ: https://graficarulez.forumfree.it/?t=80366845
